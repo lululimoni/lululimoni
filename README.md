@@ -11,7 +11,7 @@
 
 👩‍💻 Learning about Tech<br/>
 🏫 Studying Science at Victoria University, Australia<br/>
-👩🏻‍💻 Member of Women in IT <br/>
+👩🏻‍💻 Member of VU Women in IT <br/>
 <!--Markdown Badges: https://github.com/Ileriayo/markdown-badges-->
 # 🧰 Languages and Tools
 
